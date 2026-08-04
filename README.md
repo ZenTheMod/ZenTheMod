@@ -25,6 +25,9 @@ I make/work on Terraria mods sometimes…
 [<img src="RADIANT_REVIVAL.gif">](https://github.com/gold-meridian/radiant-revival)
 
 ---
+[<img src="RETRO_DEATH.png">](https://github.com/tModLoader/tModLoader/pull/5286)
+
+---
 Currently working on… 👁️
         </td>
     </tr>
