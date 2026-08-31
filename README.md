@@ -26,8 +26,14 @@
     </tr>
     <tr>
         <td valign="center" align="right" width="9999">
-
-[<img src="RADIANT_REVIVAL.gif">](https://github.com/gold-meridian/radiant-revival "Radiant Revival")
+            <picture height="0">
+                <source media="(prefers-color-scheme: dark)" srcset="RADIANT_REVIVAL_DEFINITION_DARK.png">
+                <source media="(prefers-color-scheme: light)" srcset="RADIANT_REVIVAL_DEFINITION_LIGHT.png">
+                <img>
+            </picture>
+            <a href="https://github.com/gold-meridian/radiant-revival" title="Radiant Revival">
+                <img src="RADIANT_REVIVAL.gif">
+            </a>
         </td>
     </tr>
     <tr>
