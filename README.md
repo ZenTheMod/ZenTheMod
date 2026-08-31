@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <th valign="top">
+        <th valign="top" rowspan="4">
             <h1>
                 I<br/>
                 N<br/>
@@ -14,14 +14,25 @@
                 ✦
             </h1>
         </th>
-        <td valign="top" align="center">
-            
-I make/work on Terraria mods sometimes…
----
-[<img src="DAYBREAK.gif">](https://github.com/gold-meridian/daybreak-mod)
-[<img src="RADIANT_REVIVAL.gif">](https://github.com/gold-meridian/radiant-revival)
+        <td valign="center" align="center" width="9999">
+            <h2>I make/work on Terraria mods sometimes…</h2>
+        </td>
+    </tr>
+    <tr>
+        <td valign="center" align="left" width="9999">
 
-Currently working on… 👁️
+[<img src="DAYBREAK.gif">](https://github.com/gold-meridian/daybreak-mod "DAYBREAK")
+        </td>
+    </tr>
+    <tr>
+        <td valign="center" align="right" width="9999">
+
+[<img src="RADIANT_REVIVAL.gif">](https://github.com/gold-meridian/radiant-revival "Radiant Revival")
+        </td>
+    </tr>
+    <tr>
+        <td valign="center" align="left" width="9999">
+            Currently working on… ✦✦
         </td>
     </tr>
 </table>
