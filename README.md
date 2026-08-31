@@ -27,7 +27,7 @@
                             <img src="DAYBREAK.gif">
                         </a>
                     </td>
-                    <td valign="center" align="left">
+                    <td valign="center" align="left" width="135">
                         <picture valign="center">
                             <source media="(prefers-color-scheme: dark)" srcset="DAYBREAK_DEFINITION_DARK.png">
                             <source media="(prefers-color-scheme: light)" srcset="DAYBREAK_DEFINITION_LIGHT.png">
@@ -38,7 +38,7 @@
             </table>
             <table width="100%" align="right">
                 <tr>
-                    <td valign="center" align="right">
+                    <td valign="center" align="right" width="135">
                         <picture valign="center">
                             <source media="(prefers-color-scheme: dark)" srcset="RADIANT_REVIVAL_DEFINITION_DARK.png">
                             <source media="(prefers-color-scheme: light)" srcset="RADIANT_REVIVAL_DEFINITION_LIGHT.png">
